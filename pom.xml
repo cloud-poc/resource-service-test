@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.akj.springboot</groupId>
-	<artifactId>authorization-service</artifactId>
+	<artifactId>resource-service-test</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>authorization-service</name>
+	<name>resource-service-test</name>
 	<url>http://maven.apache.org</url>
 
 	<parent>
